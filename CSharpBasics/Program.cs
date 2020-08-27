@@ -30,6 +30,10 @@ namespace CSharpBasics
             Console.WriteLine($"Here are two truths and a lie. {theTruth}, {theLie}");
             Console.WriteLine($"Here are two truths and a lie. {theTruth}, {theLie}");
             Console.WriteLine($"Here are two truths and a lie. {theTruth}, {theLie}");
+               Console.WriteLine($"Here are two truths and a lie. {theTruth}, {theLie}");
+            Console.WriteLine($"Here are two truths and a lie. {theTruth}, {theLie}");
+               Console.WriteLine($"Here are two truths and a lie. {theTruth}, {theLie}");
+            Console.WriteLine($"Here are two truths and a lie. {theTruth}, {theLie}");
 
         }
     }
